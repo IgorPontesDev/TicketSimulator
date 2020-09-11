@@ -1,0 +1,18 @@
+d:\users\tcn0633\documents\visual studio 2015\Projects\Tickets\Tickets\bin\Debug\Tickets.exe.config
+d:\users\tcn0633\documents\visual studio 2015\Projects\Tickets\Tickets\bin\Debug\Tickets.exe
+d:\users\tcn0633\documents\visual studio 2015\Projects\Tickets\Tickets\bin\Debug\Tickets.pdb
+d:\users\tcn0633\documents\visual studio 2015\Projects\Tickets\Tickets\obj\Debug\Tickets.Form1.resources
+d:\users\tcn0633\documents\visual studio 2015\Projects\Tickets\Tickets\obj\Debug\Tickets.Properties.Resources.resources
+d:\users\tcn0633\documents\visual studio 2015\Projects\Tickets\Tickets\obj\Debug\Tickets.csproj.GenerateResource.Cache
+d:\users\tcn0633\documents\visual studio 2015\Projects\Tickets\Tickets\obj\Debug\Tickets.exe
+d:\users\tcn0633\documents\visual studio 2015\Projects\Tickets\Tickets\obj\Debug\Tickets.pdb
+C:\Users\Igor\source\repos\Tickets\Tickets\bin\Debug\Tickets.exe.config
+C:\Users\Igor\source\repos\Tickets\Tickets\bin\Debug\Tickets.exe
+C:\Users\Igor\source\repos\Tickets\Tickets\bin\Debug\Tickets.pdb
+C:\Users\Igor\source\repos\Tickets\Tickets\obj\Debug\Tickets.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\Tickets\Tickets\obj\Debug\Tickets.Form1.resources
+C:\Users\Igor\source\repos\Tickets\Tickets\obj\Debug\Tickets.Properties.Resources.resources
+C:\Users\Igor\source\repos\Tickets\Tickets\obj\Debug\Tickets.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\Tickets\Tickets\obj\Debug\Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Tickets\Tickets\obj\Debug\Tickets.exe
+C:\Users\Igor\source\repos\Tickets\Tickets\obj\Debug\Tickets.pdb

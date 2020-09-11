@@ -1,0 +1,9 @@
+C:\Users\Igor\source\repos\Tickets\Tickets\bin\Release\Tickets.exe.config
+C:\Users\Igor\source\repos\Tickets\Tickets\bin\Release\Tickets.exe
+C:\Users\Igor\source\repos\Tickets\Tickets\bin\Release\Tickets.pdb
+C:\Users\Igor\source\repos\Tickets\Tickets\obj\Release\Tickets.Form1.resources
+C:\Users\Igor\source\repos\Tickets\Tickets\obj\Release\Tickets.Properties.Resources.resources
+C:\Users\Igor\source\repos\Tickets\Tickets\obj\Release\TicketsSimulator.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\Tickets\Tickets\obj\Release\TicketsSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Tickets\Tickets\obj\Release\Tickets.exe
+C:\Users\Igor\source\repos\Tickets\Tickets\obj\Release\Tickets.pdb
